@@ -25,6 +25,7 @@ class ConfigurationError(Exception):
 
 
 def log_pytorch_version_info():
+    print("!!!!!")
     import torch
     logger.info("Pytorch version: %s", torch.__version__)
 

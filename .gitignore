@@ -36,3 +36,6 @@ __pycache__
 
 .coverage
 .pytest_cache/
+
+# MOdel weights
+model_weights/
